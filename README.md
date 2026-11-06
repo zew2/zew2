@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zew2
 - 👀 I'm interested in automotive
-- 🌱 I’m currently learning javascript, php, kotlin
+- 🌱 I’m currently learning javascript, php, kotlin, python
 
 <!---
 zew2/zew2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
